@@ -65,7 +65,18 @@ color: #3E8EDE;
     background-color: white;
     margin: 3px 0;
 }
-
+.btn_blue{
+    background-color: #2FAFF6;
+    width: 220px;
+    height:48px;
+    top: 610px;
+    left: 112px;
+    padding: 12px;
+    border-radius: 8px;
+    gap: 10px;
+    border: #2FAFF6;
+    
+}
 .menu {
     display: flex;
     align-items: center;
