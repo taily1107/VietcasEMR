@@ -28,25 +28,8 @@ header {
     text-align: left;
     
 }
-.text-blue_h1{
-font-family: 'Montserrat';
-font-size: 48px;
-font-style: italic;
-font-weight: 700;
-line-height: 53px;
-letter-spacing: 0em;
-text-align: left;
-color: #2155A7;
-}
-.text-blue_h2{
-font-family: Montserrat;
-font-size: 16px;
-font-weight: 700;
-line-height: 18px;
-letter-spacing: 0.01em;
-text-align: left;
-color: #3E8EDE;
-}
+
+
 
 .logo {
     font-size: 24px;
@@ -104,6 +87,7 @@ color: #3E8EDE;
     display: none;
     margin-left: 20px;
 }
+
 
 @media screen and (max-width: 768px) {
     .menu-btn {

@@ -1,0 +1,36 @@
+.text_center_bulue{
+    width: 100vw;
+    
+    font-family: "Montserrat";
+font-size: 28px;
+font-style: italic;
+font-weight: 700;
+line-height: 31px;
+letter-spacing: 0.01em;
+text-align: left;
+justify-content: center;
+text-align: center;
+align-items: center;
+    color: #2155A7;
+}
+
+.text-blue_h2{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color: #3E8EDE;
+    }
+
+    .text-blue_h1{
+        font-family: 'Montserrat';
+        font-size: 48px;
+        font-style: italic;
+        font-weight: 700;
+        line-height: 53px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #2155A7;
+        }   

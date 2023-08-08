@@ -1,0 +1,18 @@
+.card_box_img{
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    display: flex;
+    background:#FFFFFF;
+    clip-path: polygon(0% 0%, 100% 0%, 0% 100%);
+}
+
+.card_img{
+    background-image: radial-gradient(#1DF1FF 21%, #D3FCFF 15%, #60C6FF 29%,#9FDBFB 38%, #7BC3EB 100%, #FFFFFF
+    );
+    border-radius:30% 0 0 0;
+}
+.card_text{
+     background-color: #2155A7;
+    
+}
